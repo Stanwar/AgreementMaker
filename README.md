@@ -1,3 +1,7 @@
+# Forked by Sharad Tanwar 
+
+Assignment Deals with extending the matching system by checking and improving the F-Score. 
+
 # AgreementMaker Ontology Matching System
 
 AgreementMaker is an ontology matching system was started by the ADVIS Laboratory
