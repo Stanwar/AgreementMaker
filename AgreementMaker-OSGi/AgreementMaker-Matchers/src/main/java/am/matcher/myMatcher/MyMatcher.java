@@ -45,6 +45,7 @@ public class MyMatcher  extends AbstractMatcher  {
 	protected Mapping alignTwoNodes(Node source, Node target,
 			alignType typeOfNodes, SimilarityMatrix matrix) throws Exception {
 			
+			// Printing source
 			System.out.println(source);
 
 				double sim=0.0d;
