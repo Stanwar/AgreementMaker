@@ -49,6 +49,7 @@ public class LexicalMatcherJAWS extends AbstractMatcher {
 		
 		
 		// Instantiate wordnet.
+
 		WordNet = WordNetDatabase.getFileInstance();
 		
 		// Instantiate the description map.
