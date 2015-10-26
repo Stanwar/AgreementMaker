@@ -44,6 +44,7 @@ Incorrect Mapping in the previous algorithm : Source : Paper Target : Paper
 Language of Choice : JAVA
 
 Dependencies :
+
 1. WORDNET - Using JAWS API and RITA Wordnet API. This allowed us to use Stanford's wordnet and getting synonyms and similarity score between different ontologies. 
 
 2. For running the application, Please replace MyMatcher.java from an existing project and
